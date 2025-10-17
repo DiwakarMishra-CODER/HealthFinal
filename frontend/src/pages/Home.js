@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { FaStethoscope, FaUserMd, FaUtensils, FaFileM edical, FaHeartbeat, FaShieldAlt } from 'react-icons/fa';
+import { FaStethoscope, FaUserMd, FaUtensils, FaFileMedical, FaHeartbeat, FaShieldAlt } from 'react-icons/fa';
 import { useAuth } from '../hooks/useAuth';
 
 const Home = () => {
